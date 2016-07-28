@@ -9,7 +9,6 @@
 	<name>Spring2.5IocAppWithDIEmp</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
-
 		<!-- Spring framework -->
 		<dependency>
 			<groupId>org.springframework</groupId>
